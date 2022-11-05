@@ -1,0 +1,40 @@
+com/ceiba/biblioteca/infrastructure/persistence/h2/PrestamoJPA.java
+ com.ceiba.biblioteca.infrastructure.persistence.h2.PrestamoJPA
+com/ceiba/biblioteca/BibliotecaApplication.java
+ com.ceiba.biblioteca.BibliotecaApplication
+com/ceiba/biblioteca/domain/repository/PrestamoRepository.java
+ com.ceiba.biblioteca.domain.repository.PrestamoRepository
+com/ceiba/biblioteca/aplication/dto/response/GetPrestamoResponse.java
+ com.ceiba.biblioteca.aplication.dto.response.GetPrestamoResponse
+ com.ceiba.biblioteca.aplication.dto.response.GetPrestamoResponse$GetPrestamoResponseBuilder
+com/ceiba/biblioteca/aplication/dto/response/PrestamoResponse.java
+ com.ceiba.biblioteca.aplication.dto.response.PrestamoResponse
+ com.ceiba.biblioteca.aplication.dto.response.PrestamoResponse$PrestamoResponseBuilder
+com/ceiba/biblioteca/infrastructure/persistence/dao/PrestamoDao.java
+ com.ceiba.biblioteca.infrastructure.persistence.dao.PrestamoDao
+ com.ceiba.biblioteca.infrastructure.persistence.dao.PrestamoDao$PrestamoDaoBuilder
+com/ceiba/biblioteca/infrastructure/persistence/PrestamoRepositoryImpl.java
+ com.ceiba.biblioteca.infrastructure.persistence.PrestamoRepositoryImpl
+com/ceiba/biblioteca/aplication/dto/response/ErrorResponse.java
+ com.ceiba.biblioteca.aplication.dto.response.ErrorResponse
+com/ceiba/biblioteca/domain/Prestamo.java
+ com.ceiba.biblioteca.domain.Prestamo
+ com.ceiba.biblioteca.domain.Prestamo$PrestamoBuilder
+com/ceiba/biblioteca/domain/constants/PrestamoConstants.java
+ com.ceiba.biblioteca.domain.constants.PrestamoConstants
+com/ceiba/biblioteca/aplication/dto/request/PrestamoRequest.java
+ com.ceiba.biblioteca.aplication.dto.request.PrestamoRequest
+com/ceiba/biblioteca/aplication/dto/request/TipoUsuario.java
+ com.ceiba.biblioteca.aplication.dto.request.TipoUsuario
+com/ceiba/biblioteca/domain/exception/PrestamoException.java
+ com.ceiba.biblioteca.domain.exception.PrestamoException
+com/ceiba/biblioteca/domain/exception/PrestamoNotFoundEx.java
+ com.ceiba.biblioteca.domain.exception.PrestamoNotFoundEx
+com/ceiba/biblioteca/aplication/service/PrestamoService.java
+ com.ceiba.biblioteca.aplication.service.PrestamoService
+com/ceiba/biblioteca/infrastructure/exceptions/PrestamoExceptionHandler.java
+ com.ceiba.biblioteca.infrastructure.exceptions.PrestamoExceptionHandler
+com/ceiba/biblioteca/infrastructure/controllers/PrestamoController.java
+ com.ceiba.biblioteca.infrastructure.controllers.PrestamoController
+com/ceiba/biblioteca/aplication/service/impl/PrestamoServiceImpl.java
+ com.ceiba.biblioteca.aplication.service.impl.PrestamoServiceImpl
